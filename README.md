@@ -1,4 +1,4 @@
-# Roadmap para Aprender Rust y Desarrollo Web
+# IA Roadmap para Aprender Rust y Desarrollo Web
 
 Este es mi progreso en el aprendizaje de Rust y su aplicación en diversas áreas como desarrollo web, concurrencia segura, sistemas embebidos, DevOps, y más. Este archivo servirá como guía y referencia para seguir mi avance a lo largo del tiempo.
 
